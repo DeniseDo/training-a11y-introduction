@@ -1,0 +1,16 @@
+{
+  "name": "training-a11y-introduction",
+  "version": "1.0.0",
+  "description": "Base material for a 1 day introduction training about web accessibility",
+  "author": "Zenika",
+  "private": true,
+  "homepage": "https://training.zenika.com/formations/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sensei serve",
+    "pdf": "sensei pdf"
+  },
+  "dependencies": {
+    "@zenika/sensei": "git+https://github.com/Zenika/sensei.git"
+  }
+}
