@@ -10,6 +10,7 @@
 
 - [Agenda](#/0)
 - **[Accessibilité &amp; Handicap](#/1)**
+- [Standards &amp; Réglementations](#/2)
 
 
 
