@@ -18,6 +18,8 @@
 
 ## Le W3C et la "Web Accessibility Initiative"
 
+![Logo WAI](img/logo-wai.png)
+
 - Le W3C est créé en 1994 par Tim Berners-Lee
 - C'est l'organisme de standardisation des technologies Web
 
@@ -32,7 +34,7 @@
 
 ## Normes et standards
 
-- Règles d'accessibilités
+- Règles d'accessibilité
   - [WCAG 2.1](https://www.w3.org/TR/WCAG/) (<i lang="en" title="Recommendation pour l'accessibilité des contenu web">Web Content Accessibility Guidelines</i>)
   - <small>[ATAG 2.0](https://www.w3.org/TR/ATAG/) (<i lang="en" title="Recommendation pour l'accessibilité des outils de création">Authoring Tool Accessibility Guidelines</i>)</small>
   - <small>[UAAG 2.0](https://www.w3.org/TR/UAAG20/) (<i lang="en" title="Recommendation pour l'accessibilité des agents utilisateurs">User Agent Accessibility Guidelines</i>)</small>
@@ -51,7 +53,7 @@
 
 ## Réglementations internationales
 
-De plus en plus de pays dans le monde adoptes des législations contraignantes en matière d'accessibilité des contenus numériques (en général une exigence d'accessibilité WCAG 2.1 AA pour les sites web des administrations).
+De plus en plus de pays dans le monde adoptent des législations contraignantes en matière d'accessibilité des contenus numériques (en général une exigence d'accessibilité WCAG 2.1 AA pour les sites web des administrations).
 
 <table>
   <thead><tr><th scope="col">Pays</th><th scope="col">Année</th><th scope="col">Intitulé</th><th scope="col">Perimètre</th></tr></thead>
@@ -68,7 +70,7 @@ https://www.w3.org/WAI/policies/
 
 ## Les États-Unis
 
-- Un des premier pays à légiférer en matière d'accessibilité numérique
+- Un des premiers pays à légiférer en matière d'accessibilité numérique
   - 1990: Section 504 of the U.S. Rehabilitation Act of 1973
   - 1996: Section 255 of the Telecommunications Act of 1996
   - 1998: Section 508 of the US Rehabilitation Act of 1973
@@ -90,19 +92,20 @@ Notes :
 ## La France
 
 - 2005: [Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées](https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000017759074/)
-- 2016: [LOI n° 2016-1321 du 7 octobre 2016 pour une République numérique - Article 106](https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000031589829/)
+- 2016: [Loi n° 2016-1321 du 7 octobre 2016 pour une République numérique - Article 106](https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000031589829/)
 - 2016: [Directive (UE) 2016/2102 du Parlement Européen et du Conseil du 26 octobre 2016 relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public](https://eur-lex.europa.eu/eli/dir/2016/2102/oj?locale=fr)
 - 2019: [Décret n° 2019-768 du 24 juillet 2019 relatif à l'accessibilité aux personnes handicapées des services de communication au public en ligne](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038811937)
 
-Obligation est faites d'une accessibilité **WCAG AA** aux personnes morales suivante :
+Obligation d'une accessibilité **WCAG AA** aux personnes morales suivantes :
 - L'intégralité des organismes du secteur public
 - Les entreprises privées en délégation de service public
+- Les entreprises privés constituées par une ou plusieurs des personnes mentionnées aux 1° et 2° pour satisfaire spécifiquement des besoins d’intérêt général ayant un caractère autre qu’industriel ou commercial ;
 - Les entreprises avec un CA supérieur à 250M€
 
 La France est un des rares pays à fournir un référentiel de mise en conformité opérationnel, le [Référentiel Général d'Accessibilité des Administration (RGAA 4.0)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 
 Notes :
-Eventuellement mentionner les travaux en cour de L'UE: https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=COM%3A2015%3A0615%3AFIN
+Eventuellement mentionner les travaux en cours de L'UE: https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=COM%3A2015%3A0615%3AFIN
 Et aussi le standard européen en terme d'accessibilité numérique (EN 301 549): https://www.etsi.org/standards#page=1&search=EN%20301%20549&title=0&etsiNumber=1&content=0&version=1&onApproval=1&published=1&historical=0
 
 
