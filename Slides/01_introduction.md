@@ -11,7 +11,8 @@
 - [Agenda](#/0)
 - **[Accessibilité &amp; Handicap](#/1)**
 - [Standards &amp; Réglementations](#/2)
-- [Web Content Accessibility Guidlines (WCAG)](#/3)
+- [Web Content Accessibility Guidelines (WCAG)](#/3)
+- [Mesurer &amp; Évaluer l'Accessibilité Web](#/4)
 
 
 
@@ -36,7 +37,7 @@ https://fr.wikipedia.org/wiki/Handicap
 [Loi du 11 février 2005, art. 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446/)
 
 Notes :
-Utiliser ces définissions pour ouvrir la discussion avec les participant et recentrer au besoin sur la notion de "situation de handicap" par oposition à la notion de "personne handicapée".
+Utiliser ces définissions pour ouvrir la discussion avec les participant et recentrer au besoin sur la notion de "situation de handicap" par opposition à la notion de "personne handicapée".
 
 
 
