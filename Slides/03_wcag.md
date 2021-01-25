@@ -53,7 +53,7 @@ La spécification est accompagnée de plusieurs documents d'accompagnement:
 - [Techniques de mise en œuvre pour WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
 - [Aide mémoire WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref/)
 
-A son niveau le plus basic, la spécification WCAG est organisée comme un jeu de poupées russes.
+A son niveau le plus basique, la spécification WCAG est organisée comme un jeu de poupées russes.
 
 
 
@@ -62,19 +62,19 @@ A son niveau le plus basic, la spécification WCAG est organisée comme un jeu d
 WCAG s'articule autour de 4 principes fondamentaux qui disent qu'un contenu web doit toujours être:
 
 1. **Perceptible** (<i lang="en">Perceivable</i>)<br>
-  <small>Les informations et les éléments d'interface doivent être présentés aux utilisateur de manière à ce qu'ils puissent les percevoir. (Ils doivent être perceptible par au moins un de leur sens)</small>
+  <small>Les informations et les éléments d'interface doivent être présentés aux utilisateurs de manière à ce qu'ils puissent les percevoir. (Ils doivent être perceptibles par au moins un de leur sens)</small>
 2. **Utilisable** (<i lang="en">Operable</i>)<br>
-  <small>Les éléments d'interface et de navigation doivent être utilisables par les utilisateurs. (Les interface ne doivent pas requérir une interaction que l'utilisateur ne peut pas réaliser)</small>
+  <small>Les éléments d'interface et de navigation doivent être utilisables par les utilisateurs. (Les interfaces ne doivent pas requérir une interaction que l'utilisateur ne peut pas réaliser)</small>
 3. **Compréhensible** (<i lang="en">understandable</i>)<br>
   <small>Les informations et les actions à réaliser doivent être compréhensible. (Les utilisateur ne doive pas être confronté à des information ou des interactions qui dépassent leur compréhension)</small>
 4. **Robuste** (<i lang="en">Robust</i>)<br>
-  <small>Le contenu doit être suffisamment robuste pour être interprété de manière fiable par une large variété d'agents utilisateurs, y compris les technologies d'assistance. (Les contenus doivent rester accessible même si les agents utilisateurs évolues)</small>
+  <small>Le contenu doit être suffisamment robuste pour être interprété de manière fiable par une large variété d'agents utilisateurs, y compris les technologies d'assistance. (Les contenus doivent rester accessibles même si les agents utilisateurs évoluent)</small>
 
 
 
 ## Les 13 recommandations (1/4)
 
-Les 4 principes précédent se subdivises en 13 recommandations:
+Les 4 principes précédents se subdivisent en 13 recommandations:
 
 _1. Perceptible_
 
@@ -131,7 +131,7 @@ Notes :
 _3. Compréhensible_
 
 **3.1 Lisible**<br>
-  <small>rendre le contenu textuel lisible et compréhensible.</small>
+  <small>Rendre le contenu textuel lisible et compréhensible.</small>
 
 **3.2 Prévisible**<br>
   <small>Faire en sorte que les pages apparaissent et fonctionnent de manière prévisible.</small>
@@ -148,7 +148,7 @@ Notes :
 
 ## Les 13 recommandations (4/4)
 
-_4. Robust_
+_4. Robuste_
 
 **4.1 Compatible**<br>
   <small>Optimiser la compatibilité avec les agents utilisateurs actuels et futurs, y compris les technologies d'assistance.</small>
@@ -162,15 +162,15 @@ Penser à rappeler que cela concerne aussi bien HTML que PDF
 
 ## Les critères de succès
 
-Toutes ces recommandations se subdivises elles-même en [*78 critères de succès*](https://www.w3.org/WAI/WCAG21/quickref/) que l'on va chercher à atteindre.
+Toutes ces recommandations se subdivisent elles-mêmes en [*78 critères de succès*](https://www.w3.org/WAI/WCAG21/quickref/) que l'on va chercher à atteindre.
 
-Ces critère de succès son classés selon en trois niveau de conformité:
+Ces critères de succès sont classés selon trois niveaux de conformité :
 
 - **Niveau A** : Les plus simple à mettre en œuvre ou les plus critiques pour les utilisateurs.
 - **Niveau AA** : Ceux qui sont plus exigeants en termes de mise en oeuvre ou qui ont un impact plus spécifique pour les utilisateurs.
 - **Niveau AAA** : Les critères requis pour adresser des besoins très spécifiques ou avec un impact de mise en œuvre tel qu'ils requièrent une expertise particulière.
 
-Un niveau de conformité est considéré comme atteint quand tous les critère de succès applicables du niveau sont atteint ainsi que ceux du niveau précédent.
+Un niveau de conformité est considéré comme atteint quand tous les critères de succès applicables du niveau sont atteint ainsi que ceux du niveau précédent.
 
 
 
@@ -273,26 +273,26 @@ Un niveau de conformité est considéré comme atteint quand tous les critère d
 
 ## Les techniques de mise en œuvre
 
-Enfin, tout les critères de succès sont accompagnés de techniques de mise en œuvres:
+Enfin, tout les critères de succès sont accompagnés de techniques de mise en œuvre :
 
 - Les _techniques suffisantes_
 - Les _techniques recommandées_
 - Les [_cas d'échec_](https://www.w3.org/WAI/WCAG21/Techniques/#failures)
 
-C'est techniques sont détaillés dans des fiches individuels qui précisent à qu'elles technologies elles sont associées, pourquoi elles sont nécessaires et que faire pour les mettre en œuvre.
+Ces techniques sont détaillées dans des fiches individuelles qui précisent à quelles technologies elles sont associées, pourquoi elles sont nécessaires et que faire pour les mettre en œuvre.
 
-_La principale difficulté c'est de trouver la bonne technique adapté au contexte de mise en œuvre_
+_La principale difficulté c'est de trouver la bonne technique adaptée au contexte de mise en œuvre_
 
 
 
 ## A retenir : Les contenus alternatifs
 
-Tout les contenus qui ne sont pas du texte doivent être doublé avec une alternative textuelle :
+Tout les contenus qui ne sont pas du texte doivent être doublés avec une alternative textuelle :
 - Les images (celles qui portent du sens comme les graphiques, ou qui contiennent du texte)
-- Les contenu video (sous-titre, audio-description, transcription…)
-- Les contenu audio (sous-titre, audio-description, transcription…)
+- Les contenus vidéo (sous-titre, audio-description, transcription…)
+- Les contenus audio (sous-titre, audio-description, transcription…)
 - Les animations
-- Les éléments interactifs programmatiques (tout ce qui est créer par JS dans un canvas)
+- Les éléments interactifs programmatiques (tout ce qui est crée par JS dans un canvas)
 
 Critères de succès: [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html), [1.2.1](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-and-video-only-prerecorded.html), [1.2.2](https://www.w3.org/WAI/WCAG21/Understanding/captions-prerecorded.html) , [1.2.3](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html), [1.2.4](https://www.w3.org/WAI/WCAG21/Understanding/captions-live.html), [1.2.5](https://www.w3.org/WAI/WCAG21/Understanding/audio-description-prerecorded.html), [1.2.6](https://www.w3.org/WAI/WCAG21/Understanding/sign-language-prerecorded.html), [1.2.7](https://www.w3.org/WAI/WCAG21/Understanding/extended-audio-description-prerecorded.html), [1.2.8](https://www.w3.org/WAI/WCAG21/Understanding/media-alternative-prerecorded.html), [1.2.9](https://www.w3.org/WAI/WCAG21/Understanding/audio-only-live.html)
 
@@ -303,14 +303,14 @@ Critères de succès: [1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-te
 Le design à un rôle clé à jouer dans la gestion de l'accessibilité
 
 - Les couleurs (contraste et usage pour passer de l'information…)
-- Le texte (taille du texte, capacité à zoomer le text…)
-- Les animations doivent êtres discrètes ou sous le contrôle des utilisateurs
+- Le texte (taille du texte, capacité à zoomer le texte…)
+- Les animations doivent être discrètes ou sous le contrôle des utilisateurs
 - Les interactions des utilisateurs doivent être matérialisées
 - La séparation fond/forme
   - Le design ne doit pas dépendre d'un appareil en particulier (Responsive Web Design)
-  - Un contenu peut être afficher avec un style différent ou sans style
+  - Un contenu peut être affiché avec un style différent ou sans style
   - Le design ne doit pas altérer l'ordre des éléments affichés
-  - Le design ne doit pas être la seul source d'une information
+  - Le design ne doit pas être la seule source d'une information
 
 Critères de succès: [1.3.2](https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html), [1.3.3](https://www.w3.org/WAI/WCAG21/Understanding/sensory-characteristics.html), [1.4.1](https://www.w3.org/WAI/WCAG21/Understanding/use-of-color.html), [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html), [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html), [1.4.5](https://www.w3.org/WAI/WCAG21/Understanding/images-of-text.html), [1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html), [1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation.html), [1.4.9](https://www.w3.org/WAI/WCAG21/Understanding/images-of-text-no-exception.html), [1.4.10](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html), [1.4.11](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html), [1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html), [2.3.1](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold.html), [2.3.2](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes.html), [2.3.3](https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html), [2.4.3](https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html), [2.4.7](https://www.w3.org/WAI/WCAG21/Understanding/focus-visible.html), [2.5.3](https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html), [2.5.4](https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html), [2.5.5](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html)
 
@@ -321,13 +321,13 @@ Notes :
 
 ## A retenir : HTML
 
-La bonne utilisation de HTML, avec toute sa sémantique et en se reposant sur les mécanismes natif qui y sont associée est le fondement d'une bonne accessibilité. En particulier:
+La bonne utilisation de HTML, avec toute sa sémantique et en se reposant sur les mécanismes natifs qui y sont associés est le fondement d'une bonne accessibilité. En particulier :
 
 - Les liens
 - Les titres
 - Les sections
 - Les formulaires
-- Les table de données
+- Les tables de données
 
 Critères de succès: [1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html), [1.3.2](https://www.w3.org/WAI/WCAG21/Understanding/meaningful-sequence.html), [2.4.1](https://www.w3.org/WAI/WCAG21/Understanding/bypass-blocks.html), [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html), [2.4.3](https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html), [2.4.6](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels.html), [2.4.8](https://www.w3.org/WAI/WCAG21/Understanding/location.html), [2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings.html), [3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html), [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html), [3.1.4](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html#techniques), [3.2.3](https://www.w3.org/WAI/WCAG21/Understanding/consistent-navigation.html), [3.3.2](https://www.w3.org/WAI/WCAG21/Understanding/labels-or-instructions.html), [4.1.1](https://www.w3.org/WAI/WCAG21/Understanding/parsing.html), [4.1.2](https://www.w3.org/WAI/WCAG21/Understanding/name-role-value.html), [4.1.3](https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html)
 
@@ -338,7 +338,7 @@ Penser à évoquer la question de la linéarisation des contenus
 
 ## A retenir : L'usage du clavier
 
-La possibilité d'interagir au clavier avec un contenu web est un des fondamentaux de l'accessibilité web. Faites toujours attentions aux points suivants:
+La possibilité d'interagir au clavier avec un contenu web est un des fondamentaux de l'accessibilité web. Faites toujours attention aux points suivants :
 
 - Pas d'interférence avec l'usage de la touche tabulation
 - Le focus est toujours matérialisé dans le viewport
