@@ -13,12 +13,13 @@
 - **[Standards &amp; Réglementations](#/2)**
 - [Web Content Accessibility Guidelines (WCAG)](#/3)
 - [Mesurer &amp; Évaluer l'Accessibilité Web](#/4)
+- [Mise en œuvre de l'Accessibilité Web](#/5)
 
 
 
 ## Le W3C et la "Web Accessibility Initiative"
 
-![Logo WAI](img/logo-wai.png)
+<!-- ![Logo WAI](img/logo-wai.png) -->
 
 - Le W3C est créé en 1994 par Tim Berners-Lee
 - C'est l'organisme de standardisation des technologies Web

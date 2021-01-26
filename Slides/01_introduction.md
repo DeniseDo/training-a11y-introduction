@@ -13,6 +13,7 @@
 - [Standards &amp; Réglementations](#/2)
 - [Web Content Accessibility Guidelines (WCAG)](#/3)
 - [Mesurer &amp; Évaluer l'Accessibilité Web](#/4)
+- [Mise en œuvre de l'Accessibilité Web](#/5)
 
 
 
@@ -37,7 +38,7 @@ https://fr.wikipedia.org/wiki/Handicap
 [Loi du 11 février 2005, art. 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446/)
 
 Notes :
-Utiliser ces définitions pour ouvrir la discussion avec les participants et recentrer au besoin sur la notion de "situation de handicap" par oposition à la notion de "personne handicapée".
+Utiliser ces définitions pour ouvrir la discussion avec les participants et recentrer au besoin sur la notion de "situation de handicap" par opposition à la notion de "personne handicapée".
 
 
 
@@ -72,7 +73,7 @@ Utiliser ces définitions pour ouvrir la discussion avec les participants et rec
 > The power of the Web is in its universality. Access by everyone regardless of
 > disability is an essential aspect. **Tim Berners-Lee**
 
-![Tim Berners-Lee](img/tim-berners-lee.jpg)
+<!-- ![Tim Berners-Lee](img/tim-berners-lee.jpg) -->
 
 L'accessibilité web, c'est l'ensemble des mesures prises (techniques, graphiques, organisationnels, …) pour qu'un site ou une application web soit utilisable par toute personne, quels que soient ses moyens et conditions d'accès.
 
