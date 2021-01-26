@@ -14,6 +14,7 @@
 - [Web Content Accessibility Guidelines (WCAG)](#/3)
 - **[Mesurer &amp; Évaluer l'Accessibilité Web](#/4)**
 - [Mise en œuvre de l'Accessibilité Web](#/5)
+- [Ce qu'il faut retenir](#/6)
 
 
 
