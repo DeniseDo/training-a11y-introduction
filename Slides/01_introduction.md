@@ -13,6 +13,8 @@
 - [Standards &amp; Réglementations](#/2)
 - [Web Content Accessibility Guidelines (WCAG)](#/3)
 - [Mesurer &amp; Évaluer l'Accessibilité Web](#/4)
+- [Mise en œuvre de l'Accessibilité Web](#/5)
+- [Ce qu'il faut retenir](#/6)
 
 
 
@@ -37,7 +39,7 @@ https://fr.wikipedia.org/wiki/Handicap
 [Loi du 11 février 2005, art. 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446/)
 
 Notes :
-Utiliser ces définissions pour ouvrir la discussion avec les participant et recentrer au besoin sur la notion de "situation de handicap" par opposition à la notion de "personne handicapée".
+Utiliser ces définitions pour ouvrir la discussion avec les participants et recentrer au besoin sur la notion de "situation de handicap" par opposition à la notion de "personne handicapée".
 
 
 
@@ -72,7 +74,9 @@ Utiliser ces définissions pour ouvrir la discussion avec les participant et rec
 > The power of the Web is in its universality. Access by everyone regardless of
 > disability is an essential aspect. **Tim Berners-Lee**
 
-L'accessibilité web, c'est l'ensemble des mesures prises (techniques, graphiques, organisationnels, …) pour qu'un site ou une application web soit utilisable par toute personne, quelques soit ses moyens et conditions d'accès.
+<!-- ![Tim Berners-Lee](img/tim-berners-lee.jpg) -->
+
+L'accessibilité web, c'est l'ensemble des mesures prises (techniques, graphiques, organisationnels, …) pour qu'un site ou une application web soit utilisable par toute personne, quels que soient ses moyens et conditions d'accès.
 
 
 
@@ -89,8 +93,8 @@ Laisser 2min aux participants pour notez les différents handicaps auxquels ils 
 
 Une classification des handicaps est établie par l'OMS au travers de 5 grandes catégories :
 
-- le handicap Moteurs
-- le handicap Sensoriels (visuel, auditif, …)
+- le handicap Moteur
+- le handicap Sensoriel (visuel, auditif, …)
 - le handicap Psychique (pathologies perturbant la personnalité)
 - le handicap Mental (déficiences intellectuelles)
 - et les maladies invalidantes.
@@ -141,12 +145,12 @@ Notes :
 
 - Configuration du navigateur ([Firefox](https://support.mozilla.org/fr/kb/fonctionnalites-accessibilite-adapter-firefox-tous-utilisateurs#w_raccourcis-souris), [Chrome](https://sites.google.com/a/chromium.org/dev/user-experience/low-vision-support))
   - taille du texte
-  - couleur du text et de l'arrière plan
+  - couleur du texte et de l'arrière-plan
   - Mode sombre
   - Accès au clavier
 - Zoom navigateur
   - Niveau par défaut
-  - Text seul
+  - Texte seul
 - Extensions
   - Stylus ([Firefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)), Stylish([Firefox](https://addons.mozilla.org/fr/firefox/addon/stylish/), [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe))
   - Et bien d'autres ([Firefox](), [Chrome](https://chrome.google.com/webstore/category/collection/accessibility))
