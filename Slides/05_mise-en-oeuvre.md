@@ -176,9 +176,9 @@ Commencez toujours par vérifier les recommandations techniques existantes:
 
 ### HTML: Attributs globaux
 
-Quelques [attributs globaux](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels) sont indispensable pour l'accessibilité :
+Quelques [attributs globaux](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels) sont indispensables pour l'accessibilité :
 
-- [`lang`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/lang): toujours sur la balise `<html>` et partout où c'est nécessaires. ([3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html), [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html))
+- [`lang`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/lang): toujours sur la balise `<html>` et partout où c'est nécessaire. ([3.1.1](https://www.w3.org/WAI/WCAG21/Understanding/language-of-page.html), [3.1.2](https://www.w3.org/WAI/WCAG21/Understanding/language-of-parts.html))
 - [`tabindex`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/tabindex) pour contrôler l'accès au clavier des éléments HTML,<br> uniquement avec les valeurs `-1` (pour désactiver le focus) `0` (pour autoriser le focus). ([2.4.3](https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html))
 
 Les fausses bonnes idées :
@@ -328,7 +328,7 @@ Du point de vue de l'accessibilité, le contenu du `legend` d'un `fieldset` est 
 La responsabilité d'afficher ou de masquer du contenu revient à CSS.
 
 - `display:none` C'est comme si l'élément et son contenu n'existaient pas.
-- `opacity:0` et `visibility:hidden` L'élément est invisible mais a toujours une influence sur le layout visuel de la page, cependant la plupart du temps, il n'est pas restitué aux près des aides techniques.
+- `opacity:0` et `visibility:hidden` L'élément est invisible mais a toujours une influence sur le layout visuel de la page, cependant la plupart du temps, il n'est pas restitué auprès des aides techniques.
 
 Parfois on veut masquer un élément visuellement mais tout en le restituant aux aides techniques :
 
@@ -340,7 +340,7 @@ Parfois on veut masquer un élément visuellement mais tout en le restituant aux
   /* Réduit la taille au minimum pour éviter des effets */
   /* de bords avec de vieilles versions de Chrome/Safari */
   width: 1px; height: 1px;
-  clip: rect(1px, 1px, 1px, 1px);
+  clip: rect(0, 0, 0, 0);
 }
 ```
 
@@ -523,7 +523,7 @@ Quelques attribut ARIA notables
 - [aria-busy](https://www.w3.org/TR/wai-aria-1.1/#aria-busy)
   <br><small>Indique si l'élément interactif est en train d'être modifié</small>
 - [aria-live](https://www.w3.org/TR/wai-aria-1.1/#aria-live)
-  <br><small>Indique comme les changement de l'élément interactif doivent être signalé à l'utilisateur</small>
+  <br><small>Indique comment les changements de l'élément interactif doivent êtres signalés à l'utilisateur</small>
 
 
 

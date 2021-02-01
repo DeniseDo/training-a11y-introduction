@@ -5,6 +5,9 @@
 .reveal-viewport { line-height: 1.2; }
 .reveal code { font-size: 0.85em; }
 .reveal li { margin-top: 0.5em; }
+.reveal p { margin-bottom: 0; }
+.reveal p:first-child { margin-top: 0; }
+.reveal blockquote { padding: 1em; font-size: .85em; }
 </style>
 
 
