@@ -72,7 +72,8 @@ Utiliser ces définitions pour ouvrir la discussion avec les participants et rec
 ## Qu'est ce que l'accessibilité web ?
 
 > The power of the Web is in its universality. Access by everyone regardless of
-> disability is an essential aspect. **Tim Berners-Lee**
+> disability is an essential aspect.
+> <br>**Tim Berners-Lee**
 
 <!-- ![Tim Berners-Lee](img/tim-berners-lee.jpg) -->
 
@@ -120,7 +121,9 @@ Notes :
 ## Les assistances techniques pour le web
 
 <figure>
-  <iframe style="display:block;margin:0 auto;" width="960" height="540" data-src="https://www.youtube.com/embed/cCHGZLmJJgQ"></iframe>
+  <a href="https://www.youtube.com/embed/cCHGZLmJJgQ" target="_blank">
+    <img width="960" height="540" src="./img/video-ordinateur-accessible.png" alt="">
+  </a>
   <figcaption>
     <a href="https://www.youtube.com/watch?v=cCHGZLmJJgQ" target="_blank">https://www.youtube.com/watch?v=cCHGZLmJJgQ</a>
   </figcaption>

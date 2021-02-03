@@ -340,7 +340,7 @@ Parfois on veut masquer un élément visuellement mais tout en le restituant aux
   /* Réduit la taille au minimum pour éviter des effets */
   /* de bords avec de vieilles versions de Chrome/Safari */
   width: 1px; height: 1px;
-  clip: rect(1px, 1px, 1px, 1px);
+  clip: rect(0, 0, 0, 0);
 }
 ```
 

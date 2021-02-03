@@ -115,9 +115,7 @@ https://www.w3.org/TR/WCAG21/#conformance-claims
 
 ## Outillage de mesure
 
-**Aucun outils n'est en mesure de dire si un site est conforme WCAG !**
-
-Tous les outils d'accessibilité sont des aides pour tester vos contenus ou pour limiter les risques d'erreurs techniques.
+**Aucun outils n'est en mesure de dire si un site est conforme WCAG !** Tous les outils d'accessibilité sont des aides pour tester vos contenus ou pour limiter les risques d'erreurs techniques.
 
 Les outils d'analyse automatique (linter) :
 - [Axe](https://www.deque.com/axe/) qui est utilisé par beaucoup d'autre outils: [Accessibility Insights](https://accessibilityinsights.io), [AccessLint](https://accesslint.com), [Storybook A11Y](https://github.com/storybookjs/storybook/tree/next/addons/a11y), plein de [modules NPM](https://www.npmjs.com/search?q=keywords%3Aa11y), etc.
