@@ -168,6 +168,7 @@ Notes :
 - Loupes d'écran
   - [ZoomText](https://www.freedomscientific.com/products/software/zoomtext/) (Windows)
   - [SuperNova](https://yourdolphin.com/en-gb/products/individuals/families/supernova)
+    ![Aperçu de l'utilisation de Supernova](img/supernova.png)
 - [Lecteurs d'écran](https://en.wikipedia.org/wiki/List_of_screen_readers)
   - [Jaws](https://www.freedomscientific.com/products/software/jaws/) (Windows)
   - [NVDA](https://www.nvaccess.org/about-nvda/) (Windows)
@@ -177,9 +178,11 @@ Notes :
   - [VoiceOver](https://www.apple.com/fr/accessibility/vision/) (macos, ios)
   - [TalkBack](https://support.google.com/accessibility/android/answer/6283677?hl=en) (Android)
 - Plages braille
+  ![Plage braille Humanware](img/plage-braillle.jpg)
+  ![BrailleNote Touch](img/braillenote_touch.jpg)
 
 Notes :
-Faire une démonstration de Narrateur ou de VoiceOver qui sont présent par défaut sur Windows ou MacOS.
+Faire une démonstration de Narrateur ou de VoiceOver qui sont présents par défaut sur Windows ou MacOS.
 
 
 

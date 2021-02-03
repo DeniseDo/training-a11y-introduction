@@ -31,11 +31,11 @@ L'accessibilité ne peut pas être figée à un moment donné parce que le code 
 ## Impacts organisationnels
 
 - **Informez** <br>
-  <small>Assurez vous que la question de l'accessibilité web est connus de tous et intégré dans les problématiques métier/business et que chacun a accès à des ressources (documents ou personnes) d'informations sur le sujet du handicap.</small>
+  <small>Assurez-vous que la question de l'accessibilité web est connue de tous et intégrée dans les problématiques métier/business et que chacun a accès à des ressources (documents ou personnes) d'informations sur le sujet du handicap.</small>
 - **Formez** <br>
-  <small>Assurez-vous que les savoir-faire et savoir-être nécessaire sont acquis par tous les intervenant de vos projet.</small>
+  <small>Assurez-vous que les savoir-faire et savoir-être nécessaires sont acquis par tous les intervenants de vos projets.</small>
 - **Vérifiez** <br>
-  <small>Assurez-vous de régulièrement mesurer la conformité de vos site web</small>
+  <small>Assurez-vous de régulièrement mesurer la conformité de vos sites web</small>
 - **Agissez** <br>
   <small>Assurez-vous que les actions correctives font l'objet d'une planification, d'une mise en œuvre et d'un suivi de leur déploiement effectif… jusqu'à la prochaine fois.</small>
 
@@ -64,7 +64,7 @@ Les problèmes de design les plus communs :
 
 ### Le contraste des couleurs
 
-Les critères de succès WCAG [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) et [1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html) définisse des contrastes minimum à atteindre entre la couleur d'un texte et sont arrière plan.
+Les critères de succès WCAG [1.4.3](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) et [1.4.6](https://www.w3.org/WAI/WCAG21/Understanding/contrast-enhanced.html) définissent des contrastes minimum à atteindre entre la couleur d'un texte et sont arrière-plan.
 
 Outils de mesure: Les outils développeur des navigateurs et [des centaines en ligne](https://duckduckgo.com/?q=contrast+color+checker)
 
@@ -83,7 +83,7 @@ Les problématique de taille du texte sont de différentes natures :
 - Le support du zoom texte [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html)
 - Longueur maximal des lignes [1.4.8](https://www.w3.org/WAI/WCAG21/Understanding/visual-presentation.html)
 
-La solutions idéal, **oubliez le pixel** et exprimez toutes les tailles des éléments graphiques en taille relative à la taille du texte.
+La solution idéale, **oubliez le pixel** et exprimez toutes les tailles des éléments graphiques en taille relative à la taille du texte.
 
 Pour les développeurs web, n'utilisez jamais l'unité CSS `px` et préférez toujours l'unité `rem` (y compris dans les requêtes de média).
 
@@ -133,22 +133,22 @@ Les animations sont un sujet délicat car si rien n'est dit explicitement à ce 
 
 Idéalement, toute animation devrait être définie et jouée via CSS, de cette manière, un utilisateur peut utiliser une feuille de style personnalisée s'il souhaite totalement supprimer les animations.
 
-Parmi les pratiques de design les plus problématiques on rencontre :
+Parmi les pratiques de design les plus problématiques, on rencontre :
 
 - Les arrière-plans animés
-- Les images animées (Gif, WebP, SVG) jouée en boucle
+- Les images animées (Gif, WebP, SVG) jouées en boucle
 - Les animations trop brusques ou inattendues.
 
 
 
 ## FALC: Facile à Lire et à Comprendre
 
-Une liste de règles pour [écrire des document facile à lire et à comprendre](https://www.unapei.org/wp-content/uploads/2018/11/L%E2%80%99information-pour-tous-Re%CC%80gles-europe%CC%81ennes-pour-une-information-facile-a%CC%80-lire-et-a%CC%80-comprendre.pdf) [maintenu par l'UNAPEI](https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/). Cette liste vise à mieux prendre en compte les handicaps cognitifs et mentaux.
+Une liste de règles pour [écrire des documents faciles à lire et à comprendre](https://www.unapei.org/wp-content/uploads/2018/11/L%E2%80%99information-pour-tous-Re%CC%80gles-europe%CC%81ennes-pour-une-information-facile-a%CC%80-lire-et-a%CC%80-comprendre.pdf) [maintenu par l'UNAPEI](https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pour-une-information-facile-a-lire-et-a-comprendre/). Cette liste vise à mieux prendre en compte les handicaps cognitifs et mentaux.
 
-- 20 règles sur le fond
-- 42 règles de mise en forme du texte écrit
-- 7 règles spécifique aux médias vidéos
-- 17 règle spécifiques aux médias audio
+- 20 règles sur le fond ;
+- 42 règles de mise en forme du texte écrit ;
+- 7 règles spécifiques aux médias vidéos ;
+- 17 règles spécifiques aux médias audio.
 
 80% de conformité et une relecture par le public cible est nécessaire pour pouvoir déclarer un document _facile à lire et à comprendre_.
 
@@ -159,7 +159,7 @@ https://www.unapei.org/publication/linformation-pour-tous-regles-europeennes-pou
 
 ## Le développement web accessible
 
-La clé du développement web accessible et la maitrise des technologies fondamentales :
+La clé du développement web accessible et la maîtrise des technologies fondamentales :
 
 - [HTML](https://developer.mozilla.org/fr/docs/Web/HTML) (+ [SVG](https://developer.mozilla.org/fr/docs/Web/SVG))
 - [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
@@ -167,7 +167,7 @@ La clé du développement web accessible et la maitrise des technologies fondame
 - [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - mais aussi **PDF**
 
-Commencez toujours par vérifier les recommandations techniques existantes:
+Commencez toujours par vérifier les recommandations techniques existantes :
 
 - https://www.w3.org/WAI/WCAG21/Techniques
 - https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/#contenu
@@ -184,7 +184,7 @@ Quelques [attributs globaux](https://developer.mozilla.org/fr/docs/Web/HTML/Attr
 Les fausses bonnes idées :
 
 - [`title`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/title): la prise en charge est très hétérogène par les aides techniques et nul avec toutes les interfaces tactiles.
-- [`accesskey`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/accesskey): Parfois utile, mais difficile à mettre en œuvre dans le respects de toutes les règles d'accessibilité. ([2.1.4](https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html))
+- [`accesskey`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/accesskey): Parfois utile, mais difficile à mettre en œuvre dans le respect de toutes les règles d'accessibilité. ([2.1.4](https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html))
 - [`hidden`](https://developer.mozilla.org/fr/docs/Web/HTML/Attributs_universels/hidden): Contrôlez toujours l'affichage des éléments via CSS.
 
 Notes :
@@ -194,7 +194,7 @@ https://www.w3.org/WAI/WCAG21/Techniques/#html
 
 ### HTML: Images
 
-La première sources de problème d'accessibilité ([1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html)) :
+La première source de problèmes d'accessibilité ([1.1.1](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html)) :
 
 ```html
 <img src="my_nice_picture.png" alt="">
@@ -211,7 +211,7 @@ La première sources de problème d'accessibilité ([1.1.1](https://www.w3.org/W
 
 ### HTML: Titres et section
 
-La sémantique des titres est des sections est fondamentale pour permettre aux utilisateurs de s'orienter dans la page, quelque soit l'apparence qu'on donne à ces éléments.
+La sémantique des titres et des sections est fondamentale pour permettre aux utilisateurs de s'orienter dans la page, quelle que soit l'apparence qu'on donne à ces éléments.
 
 Un document HTML est un document fondamentalement hiérarchisé.
 
@@ -267,7 +267,7 @@ Un document HTML est un document fondamentalement hiérarchisé.
 ```
 
 Notes :
-Même imbriquer dans son label, un input doit lui être lié via l'attribut `for`
+Même imbriqué dans son label, un input doit lui être lié via l'attribut `for`
 
 
 
@@ -357,7 +357,7 @@ Teaser l'usage des attributs `aria-label`, `aria-labeledby` et `aria-hidden` qui
 
 ### CSS: La génération de contenu
 
-CSS à la possibilité de générer du contenu textuel via les pseudo-élément ::before et ::after
+CSS a la possibilité de générer du contenu textuel via les pseudo-éléments ::before et ::after
 
 ```css
 /* 👎 */
@@ -375,7 +375,7 @@ a[hreflang]::after {
 }
 ```
 
-⚠️ Ces contenus ne sont **jamais** restitué aux assistances techniques ! ([1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html))
+⚠️ Ces contenus ne sont **jamais** restitués aux assistances techniques ! ([1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html))
 
 Notes :
 Le premier exemple présenté est un cas d'échec du critère de succès 1.3.1:
@@ -390,7 +390,7 @@ Le positionnement des éléments avec CSS doit suivre l'ordre naturel du flux HT
 CSS dispose de plusieurs modèles de mise en forme, et certaines propriétés doivent être utilisées avec prudences :
 
 - [`float`](https://developer.mozilla.org/fr/docs/Web/CSS/float)
-  <br><small>Pour du text <abbr lang="en" title="Left To Right">LTR</abbr> <code>float:left</code> s'appliquera à un élément en début de flux et <code>float:right</code> à un élément en fin de flux. Pour du texte <abbr lang="en" title="Right To Left">RTL</abbr>, c'est l'inverse.</small>
+  <br><small>Pour du texte <abbr lang="en" title="Left To Right">LTR</abbr> <code>float:left</code> s'appliquera à un élément en début de flux et <code>float:right</code> à un élément en fin de flux. Pour du texte <abbr lang="en" title="Right To Left">RTL</abbr>, c'est l'inverse.</small>
 - (flex) [`order`](https://developer.mozilla.org/fr/docs/Web/CSS/order), [`flex-direction`](https://developer.mozilla.org/fr/docs/Web/CSS/flex-direction)
   <br><small>Permet de changer arbitrairement l'ordre d'affichage des éléments.</small>
 - (grid) [`grid-area`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-area), [`grid-column-end`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-column-end), [`grid-column-start`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-column-start), <br>[`grid-row-end`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-row-end), [`grid-row-start`](https://developer.mozilla.org/fr/docs/Web/CSS/grid-row-start)
@@ -404,7 +404,7 @@ L'utilisation de `order` et `grid-area` est quasi-systématiquement [un cas d'é
 
 ARIA est une norme qui enrichit la sémantique de HTML et SVG pour pouvoir créer des éléments d'interfaces interactifs accessibles.
 
-- Les [roles](https://www.w3.org/TR/wai-aria/#roles) (pour HTML) et les [roles graphiques](https://www.w3.org/TR/graphics-aria-1.0/#roles) (pour SVG).
+- Les [rôles](https://www.w3.org/TR/wai-aria/#roles) (pour HTML) et les [rôles graphiques](https://www.w3.org/TR/graphics-aria-1.0/#roles) (pour SVG).
 - Les [attributs d'états et de propriétés](https://www.w3.org/TR/wai-aria/#states_and_properties)
 
 La création d'éléments d'interfaces interactifs avec ARIA doit suivre [5 règles d'utilisation](https://www.w3.org/TR/using-aria/#notes2) :
@@ -422,12 +422,12 @@ https://www.w3.org/WAI/WCAG21/Techniques/#aria
 
 
 
-### ARIA: Les roles
+### ARIA: Les rôles
 
 L'attribut `role` permet de définir une sémantique (et donc une façon de restituer un élément aux aides techniques).
 
 <ul style="font-size:0.75em;">
-  <li>Les roles des éléments HTML natif :
+  <li>Les rôles des éléments HTML natif :
     <ul style="font-size:0.6em; columns: 4;">
       <li><a href="https://www.w3.org/TR/wai-aria/#article" lang="en" hreflang="en"><code>article</code></a> (<code>&lt;article&gt;</code>)</li>
       <li><a href="https://www.w3.org/TR/wai-aria/#button" lang="en" hreflang="en"><code>button</code></a> (<code>&lt;button&gt;</code>, <code>&lt;input type="button"&gt;</code>, <code>&lt;input type="image"&gt;</code>, <code>&lt;input type="reset"&gt;</code>, <code>&lt;input type="submit"&gt;</code>)</li>
@@ -466,9 +466,9 @@ L'attribut `role` permet de définir une sémantique (et donc une façon de rest
       <li><a href="https://www.w3.org/TR/wai-aria/#textbox" lang="en" hreflang="en"><code>textbox</code></a> (<code>&lt;input type="email"&gt;</code>, <code>&lt;input type="tel"&gt;</code>, <code>&lt;input type="text"&gt;</code>, <code>&lt;input type="url"&gt;</code>, <code>&lt;textarea&gt;</code>)</li>
     </ul>
   </li>
-  <li>Autres roles notables :
+  <li>Autres rôles notables :
     <ul style="font-size:0.6em; columns: 4;">
-      <li><a href="https://www.w3.org/TR/wai-aria/#presentation" lang="en" hreflang="en"><code>presentation</code> ou <code>none</code></a> <br>(le role par défaut qui ne représente rien)</li>
+      <li><a href="https://www.w3.org/TR/wai-aria/#presentation" lang="en" hreflang="en"><code>presentation</code> ou <code>none</code></a> <br>(le rôle par défaut qui ne représente rien)</li>
       <li><a href="https://www.w3.org/TR/wai-aria/#alert" lang="en" hreflang="en"><code>alert</code></a></li>
       <li><a href="https://www.w3.org/TR/wai-aria/#alertdialog" lang="en" hreflang="en"><code>alertdialog</code></a></li>
       <li><a href="https://www.w3.org/TR/wai-aria/#application" lang="en" hreflang="en"><code>application</code></a></li>
@@ -510,29 +510,29 @@ https://www.w3.org/TR/html-aam-1.0/#html-element-role-mappings
 
 ### ARIA: Les attributs
 
-Quelques attribut ARIA notables
+Quelques attributs ARIA notables
 
 - [aria-label](https://www.w3.org/TR/wai-aria-1.1/#aria-label)
-  <br><small>Définie le libellé d'un élément interactif</small>
+  <br><small>Définit le libellé d'un élément interactif</small>
 - [aria-labeledby](https://www.w3.org/TR/wai-aria-1.1/#aria-labeledby)
-  <br><small>Référence l'ID de l'élément dont le texte définie le libellé de l'élément interactif</small>
+  <br><small>Référence l'ID de l'élément dont le texte définit le libellé de l'élément interactif</small>
 - [aria-describedby](https://www.w3.org/TR/wai-aria-1.1/#aria-describedby)
-  <br><small>Référence l'ID de l'élément dont le texte décris l'élément interactif</small>
+  <br><small>Référence l'ID de l'élément dont le texte décrit l'élément interactif</small>
 - [aria-hidden](https://www.w3.org/TR/wai-aria-1.1/#aria-hidden)
   <br><small>Indique si l'élément doit être restitué ou non par les assistances techniques</small>
 - [aria-busy](https://www.w3.org/TR/wai-aria-1.1/#aria-busy)
   <br><small>Indique si l'élément interactif est en train d'être modifié</small>
 - [aria-live](https://www.w3.org/TR/wai-aria-1.1/#aria-live)
-  <br><small>Indique comment les changements de l'élément interactif doivent êtres signalés à l'utilisateur</small>
+  <br><small>Indique comment les changements de l'élément interactif doivent être signalés à l'utilisateur</small>
 
 
 
 ### JS: Le problème des frameworks
 
-L'usage industriel moderne de JavaScript passe par l'usage massif de bibliothèques, frameworks et outils de transformations. Tout cet outillage doit être vérifié et choisie avec soin afin de :
+L'usage industriel moderne de JavaScript passe par l'usage massif de bibliothèques, frameworks et outils de transformations. Tout cet outillage doit être vérifié et choisi avec soin afin de :
 
-- s'assurer que leur simple usage ne créer pas de problèmes d'accessibilité ;
-- s'assurer que la mise en conformité avec les règles d'accessibilités n'entre pas en conflit avec cet outillage.
+- s'assurer que leur simple usage ne crée pas de problèmes d'accessibilité ;
+- s'assurer que la mise en conformité avec les règles d'accessibilité n'entrent pas en conflit avec cet outillage.
 
 Les points de vigilance à avoir :
 

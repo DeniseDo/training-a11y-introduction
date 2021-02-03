@@ -20,11 +20,11 @@
 
 ## Le W3C et la "Web Accessibility Initiative"
 
-<!-- ![Logo WAI](img/logo-wai.png) -->
-
+![Logo W3C](img/logo-w3c.png)
 - Le W3C est créé en 1994 par Tim Berners-Lee
 - C'est l'organisme de standardisation des technologies Web
 
+![Logo WAI](img/logo-wai.png)
 - La "[Web Accessibility Initiative](https://www.w3.org/WAI/)" (WAI) est créée en 1997
 - Son but est de garantir que le web reste accessible aux personnes en situation de handicap
 - La WAI travail sur 3 fronts
