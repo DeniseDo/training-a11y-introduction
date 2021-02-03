@@ -20,7 +20,7 @@
 
 ## L'audit d'accessibilité
 
-[Un audit d'accessibilité](https://www.w3.org/TR/WCAG-EM) est une démarche formel visant à mesurer le niveau de conformité d'un site ou une application web avec la norme WCAG.
+[Un audit d'accessibilité](https://www.w3.org/TR/WCAG-EM) est une démarche formelle visant à mesurer le niveau de conformité d'un site ou une application web avec la norme WCAG.
 
 Un audit peux conduire à :
 - Un plan de correction de l'accessibilité
