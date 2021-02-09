@@ -20,7 +20,7 @@
 
 ## Business et déontologie
 
-Au delà des questions éthiques qui n'ont jamais été un moteur suffisant pour les entreprises, prendre en compte l'accessibilité web apporte de nombreux bénéfices aux entreprises :
+Au-delà des questions éthiques qui n'ont jamais été un moteur suffisant pour les entreprises, prendre en compte l'accessibilité web apporte de nombreux bénéfices aux entreprises :
 
 En externe
 - Améliorer l'image de marque

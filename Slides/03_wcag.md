@@ -83,8 +83,14 @@ _1. Perceptible_
 **1.1 Alternatives Textuelles**<br>
   <small>Proposer des équivalents textuels à tout contenu non textuel qui pourra alors être présenté sous d'autres formes selon les besoins de l'utilisateur : grands caractères, braille, synthèse vocale, symboles ou langage simplifié.</small>
 
+<div style="display:flex;">
+  <img src="./img/plage-braille2.png" style="flex:initial;" alt="Plage braille utilisée avec un Notebook" />
+  <img src="./img/alternatives-textuelles.png" style="flex:auto;" alt="Alternatives textuelles" />
+</div>
+
 **1.2 Médias temporels**<br>
   <small>Proposer des versions de remplacement aux médias temporels.</small>
+  ![Média temporel avec transcription](img/1.2 - media-temporel.png)
 
 **1.3 Adaptable**<br>
   <small>Créer un contenu qui puisse être présenté de différentes manières sans perte d'information ni de structure (par exemple avec une mise en page simplifiée).</small>
@@ -106,6 +112,7 @@ _2. Utilisable_
 
 **2.1 Accessibilité au clavier**<br>
   <small>Rendre toutes les fonctionnalités accessibles au clavier.</small>
+  ![Navigation au clavier sur le site de la Mairie de Paris](img/accessibilite-clavier-mairie-paris.png)
 
 **2.2 Délai suffisant**<br>
   <small>Laisser à l'utilisateur suffisamment de temps pour lire et utiliser le contenu.</small>
@@ -115,6 +122,7 @@ _2. Utilisable_
 
 **2.4 Navigable**<br>
   <small>Fournir à l'utilisateur des éléments d'orientation pour naviguer, trouver le contenu et se situer dans le site.</small>
+  ![Breadcrumb sur le site Laredoute](img/breadcrumb.png)
 
 **2.5 Modalité d'interaction**<br>
   <small>Simplifier la possibilité pour les utilisateurs d'utiliser les fonctionnalités via un système d'interaction autre que le clavier.</small>
@@ -138,8 +146,18 @@ _3. Compréhensible_
 **3.2 Prévisible**<br>
   <small>Faire en sorte que les pages apparaissent et fonctionnent de manière prévisible.</small>
 
+  <div style="display:flex; flex:auto;">
+    <img src="./img/previsible.png"  alt="Focus sur le lien vers la carte de qualité de l'air" />
+    <img src="./img/previsible2.png" alt="Page ave la carte de qualité d'air" />
+  </div>
+
 **3.3 Assistance à la saisie**<br>
   <small>Aider l'utilisateur à éviter et à corriger les erreurs de saisie.</small>
+
+  <div style="display:flex; flex:auto;">
+    <img src="./img/aide-a-la-saisie2.png"  alt="Indication du niveau de sécurité du mot de passe" />
+    <img src="./img/aide-a-la-saisie.png" alt="Indication des caractères obligatoires saisis pour un mot de passe " />
+  </div>
 
 Notes :
 - 3.1 https://www.w3.org/WAI/WCAG21/quickref/#readable

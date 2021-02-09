@@ -22,7 +22,7 @@
 
 Le respect de l'accessibilité web s'inscrit dans une démarche d'amélioration continue de la qualité, l'accessibilité web en étant un de ces aspects parmi d'autres.
 
-![](./img/pdca.png)
+![Schéma Plan Do Check Act](./img/pdca.png)
 
 L'accessibilité ne peut pas être figée à un moment donné parce que le code de vos applications évolue en permanence ainsi que l'environnement technique et réglementaire.
 
@@ -69,7 +69,7 @@ Les critères de succès WCAG [1.4.3](https://www.w3.org/WAI/WCAG21/Understandin
 Outils de mesure: Les outils développeur des navigateurs et [des centaines en ligne](https://duckduckgo.com/?q=contrast+color+checker)
 
 <div style="display:flex; align-items:start;">
-<img src="./img/color-ff.png" alt="" />
+<img src="./img/plage-braille2.png" alt="" />
 <img src="./img/color-ch.png" height="400" alt="" />
 </div>
 
@@ -77,7 +77,7 @@ Outils de mesure: Les outils développeur des navigateurs et [des centaines en l
 
 ### La taille du texte
 
-Les problématique de taille du texte sont de différentes natures :
+Les problématiques de taille du texte sont de différentes natures :
 
 - L'espacement des lignes, mots et caractères [1.4.12](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 - Le support du zoom texte [1.4.4](https://www.w3.org/WAI/WCAG21/Understanding/resize-text.html)
@@ -209,7 +209,7 @@ La première source de problèmes d'accessibilité ([1.1.1](https://www.w3.org/W
 
 
 
-### HTML: Titres et section
+### HTML: Titres et sections
 
 La sémantique des titres et des sections est fondamentale pour permettre aux utilisateurs de s'orienter dans la page, quelle que soit l'apparence qu'on donne à ces éléments.
 
