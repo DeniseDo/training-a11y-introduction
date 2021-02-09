@@ -69,7 +69,7 @@ Les critères de succès WCAG [1.4.3](https://www.w3.org/WAI/WCAG21/Understandin
 Outils de mesure: Les outils développeur des navigateurs et [des centaines en ligne](https://duckduckgo.com/?q=contrast+color+checker)
 
 <div style="display:flex; align-items:start;">
-<img src="./img/plage-braille2.png" alt="" />
+<img src="./img/plage-braille2.jpg" alt="" />
 <img src="./img/color-ch.png" height="400" alt="" />
 </div>
 

@@ -84,7 +84,7 @@ _1. Perceptible_
   <small>Proposer des équivalents textuels à tout contenu non textuel qui pourra alors être présenté sous d'autres formes selon les besoins de l'utilisateur : grands caractères, braille, synthèse vocale, symboles ou langage simplifié.</small>
 
 <div style="display:flex;">
-  <img src="./img/plage-braille2.png" style="flex:initial;" alt="Plage braille utilisée avec un Notebook" />
+  <img src="./img/plage-braille2.jpg" style="flex:initial;" alt="Plage braille utilisée avec un Notebook" />
   <img src="./img/alternatives-textuelles.png" style="flex:auto;" alt="Alternatives textuelles" />
 </div>
 
